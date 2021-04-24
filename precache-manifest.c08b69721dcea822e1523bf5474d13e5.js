@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/hackathon_landingVKUI/static/media/background.81261551.png"
   },
   {
-    "revision": "d1c3b97340082358bff244497bc0d8f8",
+    "revision": "c22977a290dc6372188520f20d38dc5a",
     "url": "/hackathon_landingVKUI/index.html"
   }
 ];
